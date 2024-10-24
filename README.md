@@ -1,11 +1,19 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Music Presention (2024/10/16)
 
-To start the slide show:
+The music report for Group Blue on 2024/10/24.
+Powered by [Slidev](https://sli.dev/)
 
-- `npm install`
-- `npm run dev`
-- visit <http://localhost:3030>
+## Usage
 
-Edit the [slides.md](./slides.md) to see the changes.
+### Installing
+```sh
+pnpm install
+```
 
-Learn more about Slidev at the [documentation](https://sli.dev/).
+### Running
+```sh
+pnpm run dev
+```
+
+### Exporting
+See [Exporting](https://sli.dev/guide/exporting) on Slidev's documentations.
